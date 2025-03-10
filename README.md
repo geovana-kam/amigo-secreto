@@ -20,7 +20,7 @@ Com apenas alguns cliques, você adiciona os participantes, sorteia aleatoriamen
 ## 🌍 **Acesse Online**
 Você pode testar o projeto diretamente pelo GitHub Pages:  
 
-🔗 **[Acesse aqui](https://geovana-kam.github.io/amigo-secreto/)** *(Substitua pelo nome correto do repositório)*  
+🔗 **[Acesse aqui](https://geovana-kam.github.io/amigo-secreto/)**
 
 Ou, se preferir, baixe os arquivos e abra o `index.html` no navegador. 🚀
 
