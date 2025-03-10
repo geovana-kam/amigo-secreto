@@ -29,8 +29,8 @@ Ou, se preferir, baixe os arquivos e abra o `index.html` no navegador. 🚀
 ## 🛠 **Tecnologias utilizadas**
 Este projeto foi desenvolvido com:
 - **HTML5** → Estrutura da página  
-- **CSS3** → Estilos e animações ✨  
-- **JavaScript (Vanilla JS)** → Lógica do sorteio e efeitos interativos  
+- **CSS** → Estilos e animações ✨  
+- **JavaScript** → Lógica do sorteio e efeitos interativos  
 
 ---
 
