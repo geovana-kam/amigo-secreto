@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amigo Secreto</title>
+    
+    <link rel="stylesheet" href="style.css?v=1.2">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <div class="container">
+
+        <header>
+            <h1>🎁 Amigo Secreto</h1>
+            <img src="assets/amigo-secreto.png" alt="Imagem Amigo Secreto" class="main-image">
+        </header>
+
+
+        <section class="input-section">
+            <h2>🎉 Digite o nome dos amigos</h2>
+            
+            <div class="input-container">
+                <input type="text" id="nomeAmigo" placeholder="Digite um nome">
+                <button onclick="adicionarAmigo()">
+                    <i class="fas fa-plus-circle"></i> Adicionar
+                </button>
+            </div>
+        </section>
+
+        <section class="lista-section">
+            <h3>📜 Lista de Amigos</h3>
+            <ul id="listaAmigos"></ul>
+        </section>
+
+        <button class="sortear" onclick="sortearAmigo()">
+            <i class="fas fa-random"></i> Sortear Amigo
+        </button>
+
+        <div id="resultado"></div>
+    </div>
+</body>
+</html>
